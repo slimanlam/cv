@@ -1,0 +1,93 @@
+body{
+margin-left: 150px;
+margin-right: 150px;
+border: 10px inset #DCC8C3;
+background-color : #e8eae8;
+
+}
+title
+{
+color: red;
+}
+.titre{
+color: red;
+text-align:center;
+
+}
+.formations{
+	
+	text-align: center;
+	font-size: 30px;
+}
+.experience_professionnel{
+	
+	text-align:center;
+	font-size: 25px;
+}
+.exp{
+	
+	text-align: center;
+	
+	
+}
+
+.for{
+	text-align:center;
+}
+.rouge{
+background-color: #A72440;display: block;
+}
+.vert{
+background-color: #46A724;display: block;
+}
+.bleu{
+background-color: #1710E5;display: block;
+}
+.jaune{
+background-color: #FAFA0D;display: block;
+}
+.slimane{
+	width:200px;
+	height:200px;
+    margin-top;
+}
+
+.lang{
+	text-align: center;
+	
+	
+	
+}
+.Langues{
+	
+	text-align:center;
+	font-size: 25px;
+	
+}
+.Centre_d_intérêt{
+	
+	text-align:center;
+	font-size: 25px;
+	
+	
+}
+.centre{
+	
+	text-align: center;
+	
+}
+
+
+
+.mdl-slider__container {
+    background-color: white !important; /* Met le fond de la barre en blanc */
+    position: fixed !important; /* Permet de définir la position de la barre comme fixe */
+    top: 0; /* Défini la postion de la barre en haut */
+    z-index: 200; /* Une valeur élevée ici permet de s'assurer que l'élément est au dessus des autres */
+    width: 100vw; /* Défini la largeur de l'élément comme étant 100% de la largeur de l'écran */
+}
+
+
+
+
+
